@@ -11,6 +11,7 @@ This repository provides clean, step-by-step documentation for installing and co
 
 - MariaDB ODBC
 - MySQL ODBC
+- MicrosoftSQL ODBC
 - Oracle JDBC
 
 ## Installation Guides
@@ -19,6 +20,7 @@ Download the `.docx` guides for detailed instructions:
 
 - [MariaDB ODBC Driver](docs/MariaDB_ODBC_Installation_Guide.docx)
 - [MySQL ODBC Driver](docs/MySQL_ODBC_Installation_Guide.docx)
+- [MicrosoftSQL ODBC Driver](docs/MicrosoftSQL_ODBC_Installation_Guide.docx)
 - [Oracle JDBC Driver](docs/Oracle_JDBC_Installation_Guide.docx)
 
 ## License
